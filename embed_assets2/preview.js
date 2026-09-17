@@ -1,1 +1,1 @@
-window.MVN_PREVIEW='https://mirevya-landing-production.up.railway.app/media/preview.mp4?v=20260917-2224';
+window.MVN_PREVIEW='https://mirevya-landing-production.up.railway.app/media/preview.mp4?v=20260917-1934';
